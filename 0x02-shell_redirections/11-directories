@@ -1,3 +1,2 @@
-find ./* -type d -print | wc -l
-[A[D[B[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[#!/bin/bash
+#!/bin/bash
 find ./* -type d -print | wc -l
