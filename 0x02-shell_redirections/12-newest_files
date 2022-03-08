@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -t |head[D[D[D[D [C[Dhead
+ls -t | head
+
