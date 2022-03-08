@@ -1,3 +1,2 @@
 #!/bin/bash
-tr "Ac"
-"Ze"[D[D[[C[C[[A[C[C[C[C[C[C[C "Ze"
+tr "Ac" "Ze"
